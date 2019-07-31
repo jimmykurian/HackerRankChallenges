@@ -1,0 +1,10 @@
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\bin\Debug\netcoreapp2.1\CountingValleys.deps.json
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.json
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.dev.json
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\bin\Debug\netcoreapp2.1\CountingValleys.dll
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\bin\Debug\netcoreapp2.1\CountingValleys.pdb
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\obj\Debug\netcoreapp2.1\CountingValleys.csproj.CoreCompileInputs.cache
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfoInputs.cache
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfo.cs
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\obj\Debug\netcoreapp2.1\CountingValleys.dll
+D:\C# Projects\HackerRank Challenges\CountingValleys\ConsoleApp1\obj\Debug\netcoreapp2.1\CountingValleys.pdb
