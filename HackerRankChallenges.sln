@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "Jumpi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{A31CCE2F-3863-4446-84DF-26A5E07CE88E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{EB21E2DA-E8E5-4361-B9E8-E31E960281C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A31CCE2F-3863-4446-84DF-26A5E07CE88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A31CCE2F-3863-4446-84DF-26A5E07CE88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A31CCE2F-3863-4446-84DF-26A5E07CE88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB21E2DA-E8E5-4361-B9E8-E31E960281C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB21E2DA-E8E5-4361-B9E8-E31E960281C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB21E2DA-E8E5-4361-B9E8-E31E960281C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB21E2DA-E8E5-4361-B9E8-E31E960281C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
